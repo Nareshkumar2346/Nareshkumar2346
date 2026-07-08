@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://drive.google.com/file/d/1agcz0I71HkrpbXtoHro9ZPVoBFVIRX5Z/view?usp=drive_link"/>
 
 ```java
 public class NareshkumarM {
