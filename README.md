@@ -14,7 +14,7 @@
   <a href="mailto:nareshkumarmanjupriya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Hseran06">
+  <a href="https://github.com/Nareshkumar2346">
     <img src="https://img.shields.io/badge/GitHub-Hseran06-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
