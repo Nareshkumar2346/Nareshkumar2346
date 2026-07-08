@@ -1,4 +1,4 @@
-<a href="https://github.com/Hseran06">
+<a href="https://github.com/Nareshkumar2346">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NARESHKUMAR%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=16" />
 </a>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Nareshkumar2346">
-    <img src="https://img.shields.io/badge/GitHub-Hseran06-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Nareshkumar2346-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
