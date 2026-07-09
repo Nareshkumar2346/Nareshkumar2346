@@ -120,8 +120,8 @@ public class NareshkumarM {
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🧬 **[MedIntel](https://github.com/Hseran06)** | Python · RandomForestClassifier · XGBoost · HTML/CSS | Real-time AI platform predicting drug interactions & side effects; analyzes patient prescriptions and suggests safer alternatives using ML models |
-| 📚 **[Novel Nest](https://github.com/Hseran06)** | HTML · CSS · JavaScript · SQL | eCommerce platform for book purchasing with on-demand merchandise production, seamless authentication, and smooth browsing experience |
+| 🧬 **[MedIntel](https://github.com/Nareshkumar2346)** | Python · RandomForestClassifier · XGBoost · HTML/CSS | Real-time AI platform predicting drug interactions & side effects; analyzes patient prescriptions and suggests safer alternatives using ML models |
+| 📚 **[Novel Nest](https://github.com/Nareshkumar2346)** | HTML · CSS · JavaScript · SQL | eCommerce platform for book purchasing with on-demand merchandise production, seamless authentication, and smooth browsing experience |
 
 </div>
 
